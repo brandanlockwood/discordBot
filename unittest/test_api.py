@@ -1,5 +1,5 @@
-from api_access import getSpell
 import unittest
+from src.api_access import getSpell
 
 
 class dndApiTest(unittest.TestCase):
